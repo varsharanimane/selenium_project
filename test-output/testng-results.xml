@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T13:02:16Z" name="Default suite" finished-at="2024-02-29T13:05:27Z" duration-ms="190535">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T13:02:16Z" name="Default test" finished-at="2024-02-29T13:05:27Z" duration-ms="190535">
+      <class name="selenium_final.Assignment">
+        <test-method is-config="true" signature="setup()[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:32:16Z" name="setup" finished-at="2024-02-29T18:32:28Z" duration-ms="11871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:32:30Z" name="details" data-provider="pull" finished-at="2024-02-29T18:32:45Z" duration-ms="15191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[varsha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shinde]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1998]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[cs23@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[moolya]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[shinde124]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[shinde124]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:32:45Z" name="details" data-provider="pull" finished-at="2024-02-29T18:32:59Z" duration-ms="14068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pushpa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[thorat]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[February]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1999]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[pt12@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[tcs]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[thorat524]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[thorat524]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:32:59Z" name="details" data-provider="pull" finished-at="2024-02-29T18:33:13Z" duration-ms="13825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nikhil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mane]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[nm45@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[flextrade]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[mane45]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[mane45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:33:13Z" name="details" data-provider="pull" finished-at="2024-02-29T18:33:27Z" duration-ms="13934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ayush]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[thorat]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[April]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2001]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ayt12@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[wipro]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[thorat67]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[thorat67]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:33:27Z" name="details" data-provider="pull" finished-at="2024-02-29T18:33:41Z" duration-ms="13676" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arohi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[thorat]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2002]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[art56@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cogni]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[arohi78]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[arohi78]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:33:41Z" name="details" data-provider="pull" finished-at="2024-02-29T18:33:55Z" duration-ms="14246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raju]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[thorat]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2003]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[rtb67@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[capagemini]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[thorat98]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[thorat98]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:33:55Z" name="details" data-provider="pull" finished-at="2024-02-29T18:34:09Z" duration-ms="14271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shrisha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shinde]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[sss78@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[globaledge]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[shinde00]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[shinde00]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:34:09Z" name="details" data-provider="pull" finished-at="2024-02-29T18:34:24Z" duration-ms="14275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shantanu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shinde]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2005]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[sbs98@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[accenture]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[shinde34]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[shinde34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:34:24Z" name="details" data-provider="pull" finished-at="2024-02-29T18:34:38Z" duration-ms="14325" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shivaji]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mane]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[September]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2006]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[sms@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[infosys]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[mane43]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[mane43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:34:38Z" name="details" data-provider="pull" finished-at="2024-02-29T18:34:52Z" duration-ms="14155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vani]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shinde]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[October]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[vse24@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[IBM]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[shinde567]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[shinde567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="login()[pri:1, instance:selenium_final.Assignment@6f10d5b6]" started-at="2024-02-29T18:34:52Z" name="login" finished-at="2024-02-29T18:35:27Z" duration-ms="34893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- selenium_final.Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
